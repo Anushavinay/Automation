@@ -1,5 +1,5 @@
 package qsp;
 
-public class b {
+public class B {
 
 }
